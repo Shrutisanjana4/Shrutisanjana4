@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Shruti Sanjana Sahoo
 
-🎓 **Graduate Engineer Trainee** | 💻 Passionate about **Software Development**  
+🎓 **Graduate Engineer Trainee** | 💻 Passionate about **Java Development**  
 📍 Based in **Bangalore, India**  
 🚀 Always curious to learn and build with **Java** & **SQL**
 
