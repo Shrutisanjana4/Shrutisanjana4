@@ -28,7 +28,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shrutisanjana4&show_icons=true&theme=radical" width="48%" />
